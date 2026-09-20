@@ -1,4 +1,4 @@
-# Flask Profile App 
+# Personal Profile Info 
 
 A simple Flask web application that lets users create an account by entering their personal details (Name, Age, Email, Phone).  
 The app validates inputs (only Gmail addresses, 10-digit phone numbers) and displays the submitted profile in a styled card with confetti celebration.
