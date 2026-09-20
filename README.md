@@ -29,5 +29,6 @@ pip install flask
 python app.py
 python personal_info.py (optional)
 Clone the repo: https://github.com/Trishika295/py-personal-profile
+Live Demo:  https://trishika295.github.io/py-personal-profile/
 
 
